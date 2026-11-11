@@ -1,0 +1,36 @@
+# Virtual environments
+.venv/
+.venv-before-move/
+venv/
+
+# Python caches and generated files
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+
+# Jupyter and macOS
+.ipynb_checkpoints/
+.DS_Store
+
+# Credentials
+.env
+.env.*
+!.env.example
+
+# Dataset archives and downloaded data
+*.zip
+data/
+feasibility/annotations/
+feasibility/train2017/
+feasibility/val2017/
+
+# Model weights and caches
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.gguf
+.cache/
+checkpoints/
