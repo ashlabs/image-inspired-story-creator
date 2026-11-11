@@ -61,8 +61,7 @@ The dataset consists of COCO 2017 photographs and human-written captions. The in
 includes image records marked CC BY 2.0: 19,470 training-source candidates and
 857 final-test candidates. COCO caption annotations have separate CC BY 4.0 terms.
 
-Published examples require source links and attribution details. Attribution for
-the photograph displayed in the feasibility notebook is incomplete.
+The feasibility notebook includes attribution for its displayed photograph. Additional published examples require source links and attribution details.
 Dataset archives, environments, caches, and model weights are excluded from Git.
 
 ## Feasibility notebook
