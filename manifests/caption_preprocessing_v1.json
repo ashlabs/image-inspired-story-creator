@@ -1,0 +1,28 @@
+{
+  "actual_vocabulary_size": 7257,
+  "annotation_sha256": "4b62086319480e0739ef390d04084515defb9c213ff13605a036061e33314317",
+  "deduplication": "Same image_id and caption.strip(); retain first caption_id",
+  "maximum_content_tokens": 38,
+  "maximum_sequence_length": 40,
+  "maximum_vocabulary_size": 8000,
+  "minimum_token_frequency": 2,
+  "padding": "Right padding with <pad>",
+  "record_order": [
+    "image_id",
+    "caption_id"
+  ],
+  "retained_caption_count": 80028,
+  "schema_version": 1,
+  "source_caption_count": 80046,
+  "split_manifest_sha256": "45dd451b1cc6dd1f4c4cda8992c5c80596169ccd94e2fb002522cb0c7f84ad09",
+  "tokenizer": {
+    "lowercase": true,
+    "pattern": "[a-z]+(?:'[a-z]+)*|[0-9]+|[^\\s]",
+    "spelling_correction": false
+  },
+  "training_image_count": 16000,
+  "truncation": "Retain first content tokens; always append <eos>",
+  "vocabulary_file": "caption_vocabulary_v1.json",
+  "vocabulary_order": "Special tokens, then descending frequency; alphabetical ties",
+  "vocabulary_sha256": "0072a7b0f6c5811c2750d51bf2ee1474269f5a19dc7bf8607947c8c7e89254f4"
+}
