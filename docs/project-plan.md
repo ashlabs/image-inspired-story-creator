@@ -111,7 +111,6 @@ only. Do not inspect final-test content or use it to select models or prompts.
 Image 522418 has already been inspected and remains outside final testing.
 
 Retain source links and collect attribution details for published examples.
-Complete attribution for the photograph displayed in the feasibility notebook.
 Check whether license filtering changes the distribution of scenes and activities.
 
 ## 5. Evaluation

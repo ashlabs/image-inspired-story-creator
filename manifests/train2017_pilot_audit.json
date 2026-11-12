@@ -1,0 +1,169 @@
+{
+  "attempted": 20,
+  "inventory_sha256": "4b97e8545cfc4cd953508082c9a0363c9fcb285d5279a90c5d361796b0e1ba11",
+  "results": [
+    {
+      "height": 428,
+      "image_id": 30,
+      "sha256": "0444b10826d376ad9075805061405f6071a62b80eda29c5f284ed77b093d5b1d",
+      "size_bytes": 71463,
+      "status": "ok",
+      "width": 640
+    },
+    {
+      "height": 640,
+      "image_id": 72,
+      "sha256": "34985f0e3d9e71652c47bce8813b6a1925f431c0925a094b37208a97df670a7b",
+      "size_bytes": 239116,
+      "status": "ok",
+      "width": 427
+    },
+    {
+      "height": 640,
+      "image_id": 73,
+      "sha256": "a202bf8a3327508e135aa7a2ba01014f67cd68253d2eed33dd7a5e1e24523aef",
+      "size_bytes": 383651,
+      "status": "ok",
+      "width": 565
+    },
+    {
+      "height": 480,
+      "image_id": 89,
+      "sha256": "617f7bf73b8e7fed4c880b81ade5c780c49024e72284a9e289c3c99c4db315be",
+      "size_bytes": 163624,
+      "status": "ok",
+      "width": 640
+    },
+    {
+      "height": 481,
+      "image_id": 127,
+      "sha256": "fa5515e89cb4480ac9cfe94b0f8a3b111644ff3c1cff956577aa9bc5f5bb92a8",
+      "size_bytes": 205469,
+      "status": "ok",
+      "width": 640
+    },
+    {
+      "height": 536,
+      "image_id": 165,
+      "sha256": "50f1895bb22c6dda602ab7c7768fa659b5f01d2238330aa28a431aa9f11b0b44",
+      "size_bytes": 229230,
+      "status": "ok",
+      "width": 640
+    },
+    {
+      "height": 600,
+      "image_id": 309,
+      "sha256": "5f4434c5e4d114c7d5103894fd3dadfc09d1c9b125413094cd3f6fc357577a3b",
+      "size_bytes": 338050,
+      "status": "ok",
+      "width": 600
+    },
+    {
+      "height": 640,
+      "image_id": 370,
+      "sha256": "e007450679a3b3b9adf78b13f3415d28ddf06727128169f9d6ed59ee181f8255",
+      "size_bytes": 84389,
+      "status": "ok",
+      "width": 480
+    },
+    {
+      "height": 640,
+      "image_id": 436,
+      "sha256": "ee3b49e9110f3d4487f44da200cb759530144c82ab58ca7d6a72e5926561c928",
+      "size_bytes": 137920,
+      "status": "ok",
+      "width": 427
+    },
+    {
+      "height": 480,
+      "image_id": 450,
+      "sha256": "0d8eb23c53e83ea805d280c8064ac4568ff56c24adfa1c3e0af3dca3f9f943aa",
+      "size_bytes": 212846,
+      "status": "ok",
+      "width": 640
+    },
+    {
+      "height": 640,
+      "image_id": 459,
+      "sha256": "7fc910824a20229b4649e3dc47950cda468a96839ae827bf8edd9e3cc374cdc5",
+      "size_bytes": 194898,
+      "status": "ok",
+      "width": 516
+    },
+    {
+      "height": 427,
+      "image_id": 471,
+      "sha256": "4b9fc9c084bb0fa7cfe5e094aa6ee74e0722512e3429bf6c867c743e9e3f1eca",
+      "size_bytes": 75358,
+      "status": "ok",
+      "width": 640
+    },
+    {
+      "height": 480,
+      "image_id": 508,
+      "sha256": "31988bc646bfa6f95b40d6367c2d83efb75a7d3c1883019157efd3982105dab1",
+      "size_bytes": 148023,
+      "status": "ok",
+      "width": 640
+    },
+    {
+      "height": 640,
+      "image_id": 529,
+      "sha256": "5bb054760950ef2becc32fbb1d2930b226bcc545e41736a1c8f122b0554f7e33",
+      "size_bytes": 228538,
+      "status": "ok",
+      "width": 427
+    },
+    {
+      "height": 427,
+      "image_id": 544,
+      "sha256": "0f333d9dcd7e6ce64dcfa07b9b3ce567d0ae71b2a8a546718e27290d37d47972",
+      "size_bytes": 188065,
+      "status": "ok",
+      "width": 640
+    },
+    {
+      "height": 407,
+      "image_id": 599,
+      "sha256": "dad1d6d7d413e6e1db7fd6db52f82cf16bd64ba6b4d9001b754a62c4555344ad",
+      "size_bytes": 246066,
+      "status": "ok",
+      "width": 640
+    },
+    {
+      "height": 480,
+      "image_id": 626,
+      "sha256": "a78ddd34b75482ed12b5a27b9b0ec3ae204e513f1d79507d815f6a50815ef241",
+      "size_bytes": 157564,
+      "status": "ok",
+      "width": 640
+    },
+    {
+      "height": 427,
+      "image_id": 629,
+      "sha256": "c7c76535f6fed7fc756cd0c1ac077cd463350e29eda72ec5e2f2a1ed6a66a43b",
+      "size_bytes": 292965,
+      "status": "ok",
+      "width": 640
+    },
+    {
+      "height": 640,
+      "image_id": 636,
+      "sha256": "eaf70647dba7ad4f64c0e7646485e536c4bd1c0eb4e1476ec5e747bd6d6cf093",
+      "size_bytes": 175444,
+      "status": "ok",
+      "width": 480
+    },
+    {
+      "height": 481,
+      "image_id": 673,
+      "sha256": "dcad656327df00a4fd189b1cc6b967f299e1f0924531dc0f98bed960c027c3fc",
+      "size_bytes": 114855,
+      "status": "ok",
+      "width": 640
+    }
+  ],
+  "schema_version": 1,
+  "selection": "First 20 candidates in ascending image_id order",
+  "successful": 20
+}

@@ -1,0 +1,243 @@
+{
+  "fingerprints_sha256": "53df98db2d99b3cb7f18d7a6cb394e80d3c355d99ba1e338abed3b25e376e260",
+  "policy": "Group matching photographs and closely related shots; retain images",
+  "records": [
+    {
+      "decision": "same_split",
+      "hamming_distance": 0,
+      "image_id_a": 15984,
+      "image_id_b": 343629,
+      "pair_number": 1
+    },
+    {
+      "decision": "same_split",
+      "hamming_distance": 0,
+      "image_id_a": 22168,
+      "image_id_b": 308264,
+      "pair_number": 2
+    },
+    {
+      "decision": "same_split",
+      "hamming_distance": 0,
+      "image_id_a": 40065,
+      "image_id_b": 56226,
+      "pair_number": 3
+    },
+    {
+      "decision": "same_split",
+      "hamming_distance": 0,
+      "image_id_a": 43719,
+      "image_id_b": 494434,
+      "pair_number": 4
+    },
+    {
+      "decision": "same_split",
+      "hamming_distance": 2,
+      "image_id_a": 49581,
+      "image_id_b": 559403,
+      "pair_number": 5
+    },
+    {
+      "decision": "distinct",
+      "hamming_distance": 4,
+      "image_id_a": 55039,
+      "image_id_b": 313803,
+      "pair_number": 6
+    },
+    {
+      "decision": "same_split",
+      "hamming_distance": 4,
+      "image_id_a": 75002,
+      "image_id_b": 217583,
+      "pair_number": 7
+    },
+    {
+      "decision": "same_split",
+      "hamming_distance": 3,
+      "image_id_a": 78336,
+      "image_id_b": 253480,
+      "pair_number": 8
+    },
+    {
+      "decision": "same_split",
+      "hamming_distance": 3,
+      "image_id_a": 85294,
+      "image_id_b": 575197,
+      "pair_number": 9
+    },
+    {
+      "decision": "distinct",
+      "hamming_distance": 3,
+      "image_id_a": 100661,
+      "image_id_b": 400264,
+      "pair_number": 10
+    },
+    {
+      "decision": "same_split",
+      "hamming_distance": 1,
+      "image_id_a": 102517,
+      "image_id_b": 186226,
+      "pair_number": 11
+    },
+    {
+      "decision": "same_split",
+      "hamming_distance": 1,
+      "image_id_a": 102834,
+      "image_id_b": 519398,
+      "pair_number": 12
+    },
+    {
+      "decision": "distinct",
+      "hamming_distance": 4,
+      "image_id_a": 122064,
+      "image_id_b": 400264,
+      "pair_number": 13
+    },
+    {
+      "decision": "distinct",
+      "hamming_distance": 4,
+      "image_id_a": 128461,
+      "image_id_b": 130074,
+      "pair_number": 14
+    },
+    {
+      "decision": "same_split",
+      "hamming_distance": 0,
+      "image_id_a": 143358,
+      "image_id_b": 395005,
+      "pair_number": 15
+    },
+    {
+      "decision": "same_split",
+      "hamming_distance": 4,
+      "image_id_a": 143612,
+      "image_id_b": 329641,
+      "pair_number": 16
+    },
+    {
+      "decision": "distinct",
+      "hamming_distance": 4,
+      "image_id_a": 169309,
+      "image_id_b": 360480,
+      "pair_number": 17
+    },
+    {
+      "decision": "same_split",
+      "hamming_distance": 2,
+      "image_id_a": 170888,
+      "image_id_b": 257134,
+      "pair_number": 18
+    },
+    {
+      "decision": "distinct",
+      "hamming_distance": 2,
+      "image_id_a": 238816,
+      "image_id_b": 467154,
+      "pair_number": 19
+    },
+    {
+      "decision": "same_split",
+      "hamming_distance": 2,
+      "image_id_a": 260439,
+      "image_id_b": 273555,
+      "pair_number": 20
+    },
+    {
+      "decision": "same_split",
+      "hamming_distance": 4,
+      "image_id_a": 261043,
+      "image_id_b": 328295,
+      "pair_number": 21
+    },
+    {
+      "decision": "distinct",
+      "hamming_distance": 4,
+      "image_id_a": 283748,
+      "image_id_b": 330583,
+      "pair_number": 22
+    },
+    {
+      "decision": "distinct",
+      "hamming_distance": 3,
+      "image_id_a": 283748,
+      "image_id_b": 400264,
+      "pair_number": 23
+    },
+    {
+      "decision": "distinct",
+      "hamming_distance": 4,
+      "image_id_a": 292009,
+      "image_id_b": 330583,
+      "pair_number": 24
+    },
+    {
+      "decision": "same_split",
+      "hamming_distance": 2,
+      "image_id_a": 297770,
+      "image_id_b": 320333,
+      "pair_number": 25
+    },
+    {
+      "decision": "same_split",
+      "hamming_distance": 2,
+      "image_id_a": 309878,
+      "image_id_b": 424505,
+      "pair_number": 26
+    },
+    {
+      "decision": "same_split",
+      "hamming_distance": 3,
+      "image_id_a": 339111,
+      "image_id_b": 382203,
+      "pair_number": 27
+    },
+    {
+      "decision": "distinct",
+      "hamming_distance": 4,
+      "image_id_a": 360480,
+      "image_id_b": 400264,
+      "pair_number": 28
+    },
+    {
+      "decision": "distinct",
+      "hamming_distance": 4,
+      "image_id_a": 400264,
+      "image_id_b": 464605,
+      "pair_number": 29
+    },
+    {
+      "decision": "distinct",
+      "hamming_distance": 3,
+      "image_id_a": 400264,
+      "image_id_b": 467154,
+      "pair_number": 30
+    },
+    {
+      "decision": "distinct",
+      "hamming_distance": 3,
+      "image_id_a": 400264,
+      "image_id_b": 540285,
+      "pair_number": 31
+    },
+    {
+      "decision": "distinct",
+      "hamming_distance": 4,
+      "image_id_a": 467154,
+      "image_id_b": 540285,
+      "pair_number": 32
+    },
+    {
+      "decision": "distinct",
+      "hamming_distance": 4,
+      "image_id_a": 540285,
+      "image_id_b": 559416,
+      "pair_number": 33
+    }
+  ],
+  "review_method": "AI-assisted visual inspection of contact sheets",
+  "schema_version": 1,
+  "screening": {
+    "max_hamming_distance": 4,
+    "method": "dhash64"
+  }
+}

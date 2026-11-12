@@ -1,0 +1,22 @@
+{
+  "cross_file_matches": 0,
+  "cross_pixel_matches": 0,
+  "cross_pool_candidate_pairs": [
+    {
+      "hamming_distance": 4,
+      "image_id_a": 42102,
+      "image_id_b": 351991
+    }
+  ],
+  "excluded_training_image_ids": [
+    351991
+  ],
+  "max_hamming_distance": 4,
+  "policy": "Exclude matching training-source groups without test-image review",
+  "retained_test_image_count": 857,
+  "schema_version": 1,
+  "test_fingerprints_sha256": "66b7d6cdc8ac85d18ea9833c5b42d136656117f12e1a595688f797fab7460cbb",
+  "training_fingerprints_sha256": "53df98db2d99b3cb7f18d7a6cb394e80d3c355d99ba1e338abed3b25e376e260",
+  "training_groups_sha256": "5ec7c5efbd7ec930e7977be2dfc9e54e0a1555df3e1a3145b6bdcbb3c0ec7ff2",
+  "within_test_candidate_pairs": []
+}
