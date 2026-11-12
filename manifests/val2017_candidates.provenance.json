@@ -1,0 +1,14 @@
+{
+  "annotation_member": "annotations/captions_val2017.json",
+  "annotation_sha256": "afe3b30e403dd7f228e2373023abbd60042a6e10ec6874d3652df034d289ebb9",
+  "dataset": "COCO 2017",
+  "image_count": 857,
+  "inventory_file": "val2017_candidates.json",
+  "inventory_sha256": "74afe55d96c37ed668202b1aca92c7f6bf1b32ca703ff6e7db8f9b0112d93bf9",
+  "schema_version": 1,
+  "selection": {
+    "recorded_license_id": 4
+  },
+  "source_archive": "annotations_trainval2017.zip",
+  "source_archive_sha256": "113a836d90195ee1f884e704da6304dfaaecff1f023f49b6ca93c4aaae470268"
+}
