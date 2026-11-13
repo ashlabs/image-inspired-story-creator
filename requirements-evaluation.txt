@@ -1,0 +1,2 @@
+-r feasibility/requirements-feasibility.txt
+nltk==3.10.4
