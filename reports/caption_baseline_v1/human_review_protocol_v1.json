@@ -1,0 +1,2208 @@
+{
+  "assignment_seed": 31415,
+  "pairs": [
+    {
+      "A": {
+        "caption": "a couple of giraffes are standing in a zoo enclosure .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "a fence that has a bunch of giraffe in it",
+        "condition": "retrieval"
+      },
+      "image_id": 1323
+    },
+    {
+      "A": {
+        "caption": "a cat laying on top of a table with a cat on it .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "A sleepy calico cat relaxing in a sink. ",
+        "condition": "retrieval"
+      },
+      "image_id": 2471
+    },
+    {
+      "A": {
+        "caption": "a close up of a green apple and a knife",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "A close up picture of a granny smith apple",
+        "condition": "retrieval"
+      },
+      "image_id": 7934
+    },
+    {
+      "A": {
+        "caption": "a large clock tower with a clock on it",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "A large clock tower towering over the top of a building.",
+        "condition": "retrieval"
+      },
+      "image_id": 8218
+    },
+    {
+      "A": {
+        "caption": "one skier is skiing and some trees are in the background",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a group of people on skis in the snow .",
+        "condition": "generator"
+      },
+      "image_id": 13124
+    },
+    {
+      "A": {
+        "caption": "A woman walking down the street with an umbrella.",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a man is walking down a street with a dog .",
+        "condition": "generator"
+      },
+      "image_id": 15554
+    },
+    {
+      "A": {
+        "caption": "A bedroom suite with a large bed and amazing view",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a bedroom with a bed , a white and a desk .",
+        "condition": "generator"
+      },
+      "image_id": 16342
+    },
+    {
+      "A": {
+        "caption": "The toilet is near a paper dispenser installed on a brick wall.",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a bathroom with a sink , toilet , and a shower .",
+        "condition": "generator"
+      },
+      "image_id": 19145
+    },
+    {
+      "A": {
+        "caption": "a surfer riding a wave on top of a wave .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "Man knelling on a surf board on a wave.",
+        "condition": "retrieval"
+      },
+      "image_id": 21284
+    },
+    {
+      "A": {
+        "caption": "a display of different types of different types of pots .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "This person is frying her bananas on the stove.",
+        "condition": "retrieval"
+      },
+      "image_id": 22112
+    },
+    {
+      "A": {
+        "caption": "A couple of buses driving down a city street.",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a train traveling down train tracks next to a train tracks .",
+        "condition": "generator"
+      },
+      "image_id": 27226
+    },
+    {
+      "A": {
+        "caption": "there is a white plate with food and a juice on the side",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a piece of bread with a tomato and a fork on a plate .",
+        "condition": "generator"
+      },
+      "image_id": 27793
+    },
+    {
+      "A": {
+        "caption": "A man with sunglasses poses by a stop sign.",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a man is holding a cell phone in his lap .",
+        "condition": "generator"
+      },
+      "image_id": 28998
+    },
+    {
+      "A": {
+        "caption": "A large metal refrigerator and counters in a kitchen.",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a living room with a couch , a table , a table , a table , a table , a table , chairs , a table , a table , a table , a table , a table ,",
+        "condition": "generator"
+      },
+      "image_id": 33802
+    },
+    {
+      "A": {
+        "caption": "A long white couch in front of a wooden table.",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a living room with a couch , a table , chairs , a table , a table , a table , chairs , and a table , and a bench .",
+        "condition": "generator"
+      },
+      "image_id": 34096
+    },
+    {
+      "A": {
+        "caption": "a train on a track with a train on the tracks .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "A train sitting in the middle of a train station next to a platform.",
+        "condition": "retrieval"
+      },
+      "image_id": 36049
+    },
+    {
+      "A": {
+        "caption": "a woman is standing behind a man inside",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a group of young children are playing a video game .",
+        "condition": "generator"
+      },
+      "image_id": 36281
+    },
+    {
+      "A": {
+        "caption": "A man walking down a street holding onto an bag.",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a man standing in front of a store with a large mirror .",
+        "condition": "generator"
+      },
+      "image_id": 37527
+    },
+    {
+      "A": {
+        "caption": "a zebra standing next to a fence eating grass .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "A black and white striped zebra with brown mane.",
+        "condition": "retrieval"
+      },
+      "image_id": 39395
+    },
+    {
+      "A": {
+        "caption": "a small white dog wearing a red bow tie .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "A man dressed in a Santa Claus suit and holding a cell phone in his hands. ",
+        "condition": "retrieval"
+      },
+      "image_id": 44700
+    },
+    {
+      "A": {
+        "caption": "a street sign on a pole with a pole in the background",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "Big clock  hangs on the front corner of a building",
+        "condition": "retrieval"
+      },
+      "image_id": 47638
+    },
+    {
+      "A": {
+        "caption": "a man in a suit and tie standing on a toilet .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "White tiled bathroom with white shower and toilet.",
+        "condition": "retrieval"
+      },
+      "image_id": 55731
+    },
+    {
+      "A": {
+        "caption": "A group of young people playing a game of frisbee.",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a group of people standing around a soccer ball .",
+        "condition": "generator"
+      },
+      "image_id": 57753
+    },
+    {
+      "A": {
+        "caption": "a group of people are walking on a grassy field .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "a woman on a horse is stopped in front of a jump",
+        "condition": "retrieval"
+      },
+      "image_id": 58107
+    },
+    {
+      "A": {
+        "caption": "a small white cat is laying on a concrete platform .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "Two elephants in a dirt area next to concrete walls.",
+        "condition": "retrieval"
+      },
+      "image_id": 61588
+    },
+    {
+      "A": {
+        "caption": "a person on a bed with a laptop and a laptop .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "Small hard wood living room with white and green furniture.",
+        "condition": "retrieval"
+      },
+      "image_id": 65380
+    },
+    {
+      "A": {
+        "caption": "Four airplanes leaving trails in the sky above power lines.",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a plane is flying over a body of water .",
+        "condition": "generator"
+      },
+      "image_id": 67114
+    },
+    {
+      "A": {
+        "caption": "a man on a skateboard doing a trick .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "The man in knee pads is balancing on a skateboard.",
+        "condition": "retrieval"
+      },
+      "image_id": 70508
+    },
+    {
+      "A": {
+        "caption": "a cat sitting on a toilet in a bathroom .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "A cat in the bathroom standing on the toilet. ",
+        "condition": "retrieval"
+      },
+      "image_id": 71025
+    },
+    {
+      "A": {
+        "caption": "Boats are floating in a lake by the mountains.",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a group of people riding on top of a boat .",
+        "condition": "generator"
+      },
+      "image_id": 85515
+    },
+    {
+      "A": {
+        "caption": "Someone kite surfing in the shallows of the ocean",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a kite flying over a beach .",
+        "condition": "generator"
+      },
+      "image_id": 91523
+    },
+    {
+      "A": {
+        "caption": "a bathroom with a toilet , sink , mirror , and a mirror .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "A bathroom decorated in beige colors with wood cabinets.",
+        "condition": "retrieval"
+      },
+      "image_id": 93720
+    },
+    {
+      "A": {
+        "caption": "a man wearing a blue shirt and tie .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "A man in a tie and a fake moustache",
+        "condition": "retrieval"
+      },
+      "image_id": 95003
+    },
+    {
+      "A": {
+        "caption": "A person riding down a snow covered ski slope.",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a person on skis in the snow with a dog .",
+        "condition": "generator"
+      },
+      "image_id": 103747
+    },
+    {
+      "A": {
+        "caption": "a brown and white dog standing in a field .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "Several brown and white cows are in a grass field.",
+        "condition": "retrieval"
+      },
+      "image_id": 104435
+    },
+    {
+      "A": {
+        "caption": "a man and a dog are on a beach .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "a man is standing with a surfboard on the beach",
+        "condition": "retrieval"
+      },
+      "image_id": 112337
+    },
+    {
+      "A": {
+        "caption": "a small white dog sitting on a chair in a chair .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "A bedroom set up outside in a porch. ",
+        "condition": "retrieval"
+      },
+      "image_id": 113660
+    },
+    {
+      "A": {
+        "caption": "A man puts his arm around a woman sitting beside him on a bench.",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a man sitting on a bench with a clock on the side of it .",
+        "condition": "generator"
+      },
+      "image_id": 114389
+    },
+    {
+      "A": {
+        "caption": "A hot dog covered in ketchup, mustard, chili and french fries.",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a sandwich with a paper plate and a knife on it .",
+        "condition": "generator"
+      },
+      "image_id": 119904
+    },
+    {
+      "A": {
+        "caption": "a bear is standing on a lush green field .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "There is a bear sitting by itself on the grass.",
+        "condition": "retrieval"
+      },
+      "image_id": 120850
+    },
+    {
+      "A": {
+        "caption": "a man riding a surfboard on top of a wave .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "A guy riding a surfboard on the water.",
+        "condition": "retrieval"
+      },
+      "image_id": 126064
+    },
+    {
+      "A": {
+        "caption": "a person is standing on a bed with a bag of luggage .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "Several people and two dogs are riding down the street.",
+        "condition": "retrieval"
+      },
+      "image_id": 129675
+    },
+    {
+      "A": {
+        "caption": "A pizza and grapes sit on a tray next to a drink. ",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a bowl of bananas and a banana on a table .",
+        "condition": "generator"
+      },
+      "image_id": 134072
+    },
+    {
+      "A": {
+        "caption": "Two airplanes lined up on pavement near a building.",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a large plane sitting on top of a runway .",
+        "condition": "generator"
+      },
+      "image_id": 136235
+    },
+    {
+      "A": {
+        "caption": "a man sitting at a table with a plate of food .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "A little girl sitting at a table eating pieces of cake on plates.",
+        "condition": "retrieval"
+      },
+      "image_id": 136820
+    },
+    {
+      "A": {
+        "caption": "a man sitting on a bench eating a doughnut .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "A man talking on a cell phone in his car.",
+        "condition": "retrieval"
+      },
+      "image_id": 140743
+    },
+    {
+      "A": {
+        "caption": "a person on skis in the snow with a backpack and a backpack .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "A person kneels a bit as they race down a special ski path",
+        "condition": "retrieval"
+      },
+      "image_id": 141146
+    },
+    {
+      "A": {
+        "caption": "A small wooden bench on the side of a road.",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a white and white cat sitting on a bench .",
+        "condition": "generator"
+      },
+      "image_id": 152327
+    },
+    {
+      "A": {
+        "caption": "a couple of horses are standing on the beach",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a cow standing in a field next to a tree .",
+        "condition": "generator"
+      },
+      "image_id": 153870
+    },
+    {
+      "A": {
+        "caption": "a zebra standing next to a zebra in a field .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "A group of zebra's leaned over eating grass on a field.",
+        "condition": "retrieval"
+      },
+      "image_id": 157886
+    },
+    {
+      "A": {
+        "caption": "a cat laying on a bed with a laptop on a laptop .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "a close up of a child eating something",
+        "condition": "retrieval"
+      },
+      "image_id": 159127
+    },
+    {
+      "A": {
+        "caption": "a garbage truck is parked in a lot .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "A white truck driving down a street next to a building.",
+        "condition": "retrieval"
+      },
+      "image_id": 161251
+    },
+    {
+      "A": {
+        "caption": "a man riding a surfboard on top of a beach .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "A man is standing alone while enjoying a day of skiing. ",
+        "condition": "retrieval"
+      },
+      "image_id": 164310
+    },
+    {
+      "A": {
+        "caption": "Two large boats parked on a rocky beach. ",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a boat is sitting on a river next to a boat .",
+        "condition": "generator"
+      },
+      "image_id": 165365
+    },
+    {
+      "A": {
+        "caption": "a person operating a cell phone near a laptop",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a laptop computer sitting on a desk next to a laptop .",
+        "condition": "generator"
+      },
+      "image_id": 165753
+    },
+    {
+      "A": {
+        "caption": "a man riding a skateboard down a ramp .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "A man flying through the air while riding a skateboard.",
+        "condition": "retrieval"
+      },
+      "image_id": 170666
+    },
+    {
+      "A": {
+        "caption": "a man walking on a beach with a surfboard .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "some people on a beach some surfboards and buildings",
+        "condition": "retrieval"
+      },
+      "image_id": 171443
+    },
+    {
+      "A": {
+        "caption": "a group of people are walking around a field .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "Many people walking down a city street near a large bus.",
+        "condition": "retrieval"
+      },
+      "image_id": 172543
+    },
+    {
+      "A": {
+        "caption": "Native animals in large open area in rural setting.",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a group of cows standing in a field next to a fence .",
+        "condition": "generator"
+      },
+      "image_id": 175584
+    },
+    {
+      "A": {
+        "caption": "The skier is doing a flip high in the air near gondala wires.",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a person on a snowboard in the snow .",
+        "condition": "generator"
+      },
+      "image_id": 177163
+    },
+    {
+      "A": {
+        "caption": "a cat laying on a couch next to a window .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "Side by side images of a bathroom and a dining room.",
+        "condition": "retrieval"
+      },
+      "image_id": 184843
+    },
+    {
+      "A": {
+        "caption": "a bunch of animals that are standing in a field",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a herd of sheep grazing on a lush green field .",
+        "condition": "generator"
+      },
+      "image_id": 186868
+    },
+    {
+      "A": {
+        "caption": "many people on a snowy slope riding skis and snowboards",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a group of people standing around a snowy field .",
+        "condition": "generator"
+      },
+      "image_id": 192048
+    },
+    {
+      "A": {
+        "caption": "a large elephant standing next to a stone wall .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "A large gray elephant walking along a field.",
+        "condition": "retrieval"
+      },
+      "image_id": 197044
+    },
+    {
+      "A": {
+        "caption": "Some people are sitting in a model train.",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a couple of people standing on a bench next to a building .",
+        "condition": "generator"
+      },
+      "image_id": 198176
+    },
+    {
+      "A": {
+        "caption": "a bunch of different appliances on a table ",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a table with a cell phone and a pair of shoes on it .",
+        "condition": "generator"
+      },
+      "image_id": 213976
+    },
+    {
+      "A": {
+        "caption": "a bathroom with a sink , toilet , mirror , and mirror .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "there is a small bottle of hand soap on the sink",
+        "condition": "retrieval"
+      },
+      "image_id": 214256
+    },
+    {
+      "A": {
+        "caption": "a man in a suit and tie standing in front of a building .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "A man wearing a blue paper neck tie with tattoos on his arms.",
+        "condition": "retrieval"
+      },
+      "image_id": 214492
+    },
+    {
+      "A": {
+        "caption": "Two people are flying a kite at the park",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a group of people standing on a lush green field .",
+        "condition": "generator"
+      },
+      "image_id": 222313
+    },
+    {
+      "A": {
+        "caption": "a man standing in front of a tv holding a microphone .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "The lady is looking up at the clock on the wall",
+        "condition": "retrieval"
+      },
+      "image_id": 222472
+    },
+    {
+      "A": {
+        "caption": "a living room with a couch , chairs , a table , chairs , a table , chairs , and a chair , and a chair .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "a group of people standing around a counter ",
+        "condition": "retrieval"
+      },
+      "image_id": 231062
+    },
+    {
+      "A": {
+        "caption": "a train on a train track with a train on the side .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "A train is on the tracks next to a stone wall and a bluff.",
+        "condition": "retrieval"
+      },
+      "image_id": 231163
+    },
+    {
+      "A": {
+        "caption": "a zebra standing in a field next to a fence .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "A zebra standing on top of a lush green field.",
+        "condition": "retrieval"
+      },
+      "image_id": 231222
+    },
+    {
+      "A": {
+        "caption": "a person standing on a sidewalk with a suitcase on the floor .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "A bathroom with a white toilet next to a tub.",
+        "condition": "retrieval"
+      },
+      "image_id": 236290
+    },
+    {
+      "A": {
+        "caption": "a street sign that is on a pole .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "A stop sign has graffiti written on it.",
+        "condition": "retrieval"
+      },
+      "image_id": 242969
+    },
+    {
+      "A": {
+        "caption": "A clock tower has a balcony, bells and two swinging windows in front.",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a blue and white clock tower with a clock on it .",
+        "condition": "generator"
+      },
+      "image_id": 248601
+    },
+    {
+      "A": {
+        "caption": "Two people are flying kites on a beach. ",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a group of people riding bikes down a street .",
+        "condition": "generator"
+      },
+      "image_id": 249277
+    },
+    {
+      "A": {
+        "caption": "a woman standing in front of a stone wall .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "A young boy hitting a ball in a yard with a bat.",
+        "condition": "retrieval"
+      },
+      "image_id": 254510
+    },
+    {
+      "A": {
+        "caption": "Wooden and black bench on the side of the road. ",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a wooden bench sitting on a sidewalk next to a stone wall .",
+        "condition": "generator"
+      },
+      "image_id": 258191
+    },
+    {
+      "A": {
+        "caption": "a clock on a pole on a street corner",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "A clock on a green lamp post on a sidewalk",
+        "condition": "retrieval"
+      },
+      "image_id": 259758
+    },
+    {
+      "A": {
+        "caption": "A man wearing a fedora and a tie standing next to a woman in a dress.",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a man in a blue shirt and tie standing in front of a building .",
+        "condition": "generator"
+      },
+      "image_id": 262235
+    },
+    {
+      "A": {
+        "caption": "A skateboarder is on the edge of a tall structure.",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a man riding a skateboard down a ramp .",
+        "condition": "generator"
+      },
+      "image_id": 262238
+    },
+    {
+      "A": {
+        "caption": "a green and white dog are sitting on a table .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "Two apples, an orange, and a banana form a smiling face",
+        "condition": "retrieval"
+      },
+      "image_id": 263783
+    },
+    {
+      "A": {
+        "caption": "A store sign attached to a building on the street",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a street sign on a pole with a street sign on the side of it .",
+        "condition": "generator"
+      },
+      "image_id": 271452
+    },
+    {
+      "A": {
+        "caption": "a horse is standing in the middle of a barn .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "A horse is standing by a wire fence.",
+        "condition": "retrieval"
+      },
+      "image_id": 272159
+    },
+    {
+      "A": {
+        "caption": "a man sitting on a couch with a laptop .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "A couple of people sleeping on top of a bench.",
+        "condition": "retrieval"
+      },
+      "image_id": 272299
+    },
+    {
+      "A": {
+        "caption": "a living room with a couch , chairs , a table , a table , chairs , and a table , a table , chairs , and a table .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "A large kitchen has wooden cabinets an beige fixtures.",
+        "condition": "retrieval"
+      },
+      "image_id": 272882
+    },
+    {
+      "A": {
+        "caption": "A young boy getting ready to blow out candles for his birthday.",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a little boy sitting at a table with a cake .",
+        "condition": "generator"
+      },
+      "image_id": 273704
+    },
+    {
+      "A": {
+        "caption": "a pitcher on the mound getting ready to hit the ball ",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a baseball player swinging a bat at a ball .",
+        "condition": "generator"
+      },
+      "image_id": 274437
+    },
+    {
+      "A": {
+        "caption": "a cat laying on a blue towel on a blue towel .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "A cat with a blue collar looking at camera.",
+        "condition": "retrieval"
+      },
+      "image_id": 275219
+    },
+    {
+      "A": {
+        "caption": "a group of people sitting on a couch with a cat .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "A dog sleeping on bed against the wall. ",
+        "condition": "retrieval"
+      },
+      "image_id": 279138
+    },
+    {
+      "A": {
+        "caption": "a man is sitting on a red bench next to a red fire hydrant .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "A little girl that is on the beach in the daytime.",
+        "condition": "retrieval"
+      },
+      "image_id": 280079
+    },
+    {
+      "A": {
+        "caption": "a bathroom with a toilet , shower , shower , and shower .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "A white toilet sitting up against a brick wall.",
+        "condition": "retrieval"
+      },
+      "image_id": 284020
+    },
+    {
+      "A": {
+        "caption": "A dog lays in the grass panting with a Frisbee.",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a dog laying on a bed with a dog and a cat .",
+        "condition": "generator"
+      },
+      "image_id": 284715
+    },
+    {
+      "A": {
+        "caption": "a little boy standing in a birthday cake with a child on it .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "A woman uses a blow drier on a child's hair.",
+        "condition": "retrieval"
+      },
+      "image_id": 285727
+    },
+    {
+      "A": {
+        "caption": "A small plane is taking off from a grassy field.",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a small plane on a runway with a plane on the ground .",
+        "condition": "generator"
+      },
+      "image_id": 290911
+    },
+    {
+      "A": {
+        "caption": "A mother and daughter smile as they eat their meal.",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a man is cutting a piece of cake .",
+        "condition": "generator"
+      },
+      "image_id": 291460
+    },
+    {
+      "A": {
+        "caption": "a group of people standing around a table with a lot of people .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "Wine is being served from tables to the people in the room. ",
+        "condition": "retrieval"
+      },
+      "image_id": 295399
+    },
+    {
+      "A": {
+        "caption": "A cat laying on a blue camp chair ",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a cat laying on a bed with a computer mouse .",
+        "condition": "generator"
+      },
+      "image_id": 296188
+    },
+    {
+      "A": {
+        "caption": "a man in a green shirt is standing on a bench .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "an empty street and signals that are red",
+        "condition": "retrieval"
+      },
+      "image_id": 300303
+    },
+    {
+      "A": {
+        "caption": "a bunch of animals that are standing in a field",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a herd of elephants are grazing on a field .",
+        "condition": "generator"
+      },
+      "image_id": 302469
+    },
+    {
+      "A": {
+        "caption": "A white plate topped with hot dogs and salad.",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a plate of food with a fork and a fork on a table .",
+        "condition": "generator"
+      },
+      "image_id": 302643
+    },
+    {
+      "A": {
+        "caption": "there is a mail truck that is parked next to the sidewalk",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a group of people crossing a street with a stop sign .",
+        "condition": "generator"
+      },
+      "image_id": 306620
+    },
+    {
+      "A": {
+        "caption": "a group of people riding on a street .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "A man with a phone is leaning on a post.",
+        "condition": "retrieval"
+      },
+      "image_id": 314092
+    },
+    {
+      "A": {
+        "caption": "a group of people sitting on a bench next to a tree .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "A woman laying on a beach next to a colorful umbrella.",
+        "condition": "retrieval"
+      },
+      "image_id": 318108
+    },
+    {
+      "A": {
+        "caption": "A BASE BALL GAME WITH A LOT OF PEOPLE ",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a group of people standing around a field .",
+        "condition": "generator"
+      },
+      "image_id": 318180
+    },
+    {
+      "A": {
+        "caption": "a man standing in a bathroom with a toilet .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "A room in the house has an all white surface area.",
+        "condition": "retrieval"
+      },
+      "image_id": 318521
+    },
+    {
+      "A": {
+        "caption": "This is a landscape view of a church with a clock tower.",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a large building with a clock on the side of it .",
+        "condition": "generator"
+      },
+      "image_id": 320643
+    },
+    {
+      "A": {
+        "caption": "a girl in a blue shirt and white kite in the air .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "A woman and a little girl standing on top of a beach.",
+        "condition": "retrieval"
+      },
+      "image_id": 327215
+    },
+    {
+      "A": {
+        "caption": "a large white plate with a sandwich and a fork .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "Dinner plate with potatos, veggies, garlic bread and a steak",
+        "condition": "retrieval"
+      },
+      "image_id": 331314
+    },
+    {
+      "A": {
+        "caption": "A woman on a bus, using a cell phone.",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a man sitting on a bench with a sign in front of a sign .",
+        "condition": "generator"
+      },
+      "image_id": 332038
+    },
+    {
+      "A": {
+        "caption": "a wooden bench sitting on a dirt road next to a tree .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "An empty brown bench standing in a field next to a wooded area.",
+        "condition": "retrieval"
+      },
+      "image_id": 334311
+    },
+    {
+      "A": {
+        "caption": "Home living room scene with lounge chair, sofa and coffee table.",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a living room with a couch , a television , a window , a television , a window , a television , a window , a television , a window , a window , a television , a window",
+        "condition": "generator"
+      },
+      "image_id": 334463
+    },
+    {
+      "A": {
+        "caption": "a table topped with a vase of flowers and a lamp .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "Various plants and flowers in vases and on the table top.",
+        "condition": "retrieval"
+      },
+      "image_id": 335865
+    },
+    {
+      "A": {
+        "caption": "A crowded restaurant filled with people eating food.",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a group of people sitting at a table with a laptop .",
+        "condition": "generator"
+      },
+      "image_id": 336892
+    },
+    {
+      "A": {
+        "caption": "a man stands on a chair looking at a computer ",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a motorcycle parked on a sidewalk next to a building .",
+        "condition": "generator"
+      },
+      "image_id": 337011
+    },
+    {
+      "A": {
+        "caption": "a group of people standing around a table with a cake .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "Several people standing around with beverages in their hands.",
+        "condition": "retrieval"
+      },
+      "image_id": 339248
+    },
+    {
+      "A": {
+        "caption": "A man kneeling down next to a bath tub holding a rag.",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a man sitting on a couch holding a stuffed animal .",
+        "condition": "generator"
+      },
+      "image_id": 339575
+    },
+    {
+      "A": {
+        "caption": "A bathroom area with window, toilet and bathtub.",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a bathroom with a sink and a mirror .",
+        "condition": "generator"
+      },
+      "image_id": 342550
+    },
+    {
+      "A": {
+        "caption": "People get off a tour bus to explore the area.",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a large white and blue truck on a street .",
+        "condition": "generator"
+      },
+      "image_id": 343059
+    },
+    {
+      "A": {
+        "caption": "a herd of sheep are grazing on a lush green field .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "A flock of sheep in a mown field under telegraph wires",
+        "condition": "retrieval"
+      },
+      "image_id": 360665
+    },
+    {
+      "A": {
+        "caption": "a man and a woman standing next to a motorcycle .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "A man riding a vintage motorcycle down a street.",
+        "condition": "retrieval"
+      },
+      "image_id": 366282
+    },
+    {
+      "A": {
+        "caption": "a man in the park holding onto a green frisbee and the leash for a dog",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a dog is playing with a frisbee in the grass .",
+        "condition": "generator"
+      },
+      "image_id": 370701
+    },
+    {
+      "A": {
+        "caption": "a person sitting on a table with a bag .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "A little boy with glasses and a blue parka eats a doughnut.",
+        "condition": "retrieval"
+      },
+      "image_id": 372219
+    },
+    {
+      "A": {
+        "caption": "a man is cutting in to a cake",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a man is cutting a cake with a plate of food .",
+        "condition": "generator"
+      },
+      "image_id": 372233
+    },
+    {
+      "A": {
+        "caption": "A MAN IS PLAYING ON THE BEACH WITH A FRIEND",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a man in a blue shirt and white shirt and tie standing on a bench .",
+        "condition": "generator"
+      },
+      "image_id": 373986
+    },
+    {
+      "A": {
+        "caption": "A white plate topped with mean, veggies and mashed potatoes.",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a plate of food with a sandwich and a fork .",
+        "condition": "generator"
+      },
+      "image_id": 374451
+    },
+    {
+      "A": {
+        "caption": "a bathroom with a shower and a shower .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "A bathroom with a walk in shower next to a toilet.",
+        "condition": "retrieval"
+      },
+      "image_id": 374707
+    },
+    {
+      "A": {
+        "caption": "a man standing in front of a mirror .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "A person using a computer with a computer mouse.",
+        "condition": "retrieval"
+      },
+      "image_id": 374726
+    },
+    {
+      "A": {
+        "caption": "A woman holding a bat over the top of a baseball base.",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a man in a white shirt and blue shorts playing baseball .",
+        "condition": "generator"
+      },
+      "image_id": 376773
+    },
+    {
+      "A": {
+        "caption": "A half a glazed donut sitting on a paper plate.",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a sandwich with fries on a plate on it",
+        "condition": "generator"
+      },
+      "image_id": 379285
+    },
+    {
+      "A": {
+        "caption": "a bird flying above a tree in a room .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "a person jumping skis in the air with a sky background",
+        "condition": "retrieval"
+      },
+      "image_id": 379558
+    },
+    {
+      "A": {
+        "caption": "a person riding a horse through a fence .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "A couple of black and white cows walking into a river.",
+        "condition": "retrieval"
+      },
+      "image_id": 380011
+    },
+    {
+      "A": {
+        "caption": "a man is riding a surfboard on top of a wave .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "A group of people riding boards on top of a large body of water.",
+        "condition": "retrieval"
+      },
+      "image_id": 387335
+    },
+    {
+      "A": {
+        "caption": "a woman is standing in front of a store .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "Old man and young man working behind a kitchen with a customer up front. ",
+        "condition": "retrieval"
+      },
+      "image_id": 387696
+    },
+    {
+      "A": {
+        "caption": "A person on a skateboard on a street.",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a man playing tennis on a court with a racket .",
+        "condition": "generator"
+      },
+      "image_id": 392615
+    },
+    {
+      "A": {
+        "caption": "a man in a blue shirt and white shirt and black pants is on a skateboard .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "Two skiers with poles are on the snow.",
+        "condition": "retrieval"
+      },
+      "image_id": 392887
+    },
+    {
+      "A": {
+        "caption": "a living room with a table and chairs .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "A kitchen center island on top of a hard wood floor.",
+        "condition": "retrieval"
+      },
+      "image_id": 393054
+    },
+    {
+      "A": {
+        "caption": "a person holding a cell phone in a car mirror .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "An old style portable phone and the bag it sets in.",
+        "condition": "retrieval"
+      },
+      "image_id": 395840
+    },
+    {
+      "A": {
+        "caption": "A park full of many people having some fun. ",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a man riding a skateboard down a ramp .",
+        "condition": "generator"
+      },
+      "image_id": 402408
+    },
+    {
+      "A": {
+        "caption": "a giraffe standing next to a tree in a field .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "A giraffe and a herd of gazelles in an enclosure.",
+        "condition": "retrieval"
+      },
+      "image_id": 406786
+    },
+    {
+      "A": {
+        "caption": "A crowd of people standing around a luggage carousel at an airport.",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a group of people sitting around a table .",
+        "condition": "generator"
+      },
+      "image_id": 413164
+    },
+    {
+      "A": {
+        "caption": "a white and red plane flying in the air .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "A silver airplane sitting on top of a tarmac.",
+        "condition": "retrieval"
+      },
+      "image_id": 413533
+    },
+    {
+      "A": {
+        "caption": "a baseball game with a batter and umpire in the middle of a stadium .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "The man is hitting the baseball during the game.",
+        "condition": "retrieval"
+      },
+      "image_id": 418087
+    },
+    {
+      "A": {
+        "caption": "a car is parked in front of a building .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "A large boat is in the water by a bridge.",
+        "condition": "retrieval"
+      },
+      "image_id": 419056
+    },
+    {
+      "A": {
+        "caption": "a man riding a skateboard down a street .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "a person on a skate board rides on some cement ",
+        "condition": "retrieval"
+      },
+      "image_id": 419627
+    },
+    {
+      "A": {
+        "caption": "a man is standing on a skateboard in front of a crowd .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "A man in the air with a skateboard in front of a cement wall.",
+        "condition": "retrieval"
+      },
+      "image_id": 432503
+    },
+    {
+      "A": {
+        "caption": "a baseball player is swinging a bat at a baseball game .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "A baseball player swings a bat at a thrown ball",
+        "condition": "retrieval"
+      },
+      "image_id": 432820
+    },
+    {
+      "A": {
+        "caption": "Now all these Frisbee throwers need is a dog.",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a group of people playing a game of frisbee .",
+        "condition": "generator"
+      },
+      "image_id": 434526
+    },
+    {
+      "A": {
+        "caption": "a person holding a sandwich and a knife on a table .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "A hot dog covered in cheese and relish sits on some wax paper.",
+        "condition": "retrieval"
+      },
+      "image_id": 435458
+    },
+    {
+      "A": {
+        "caption": "A large brown dog laying inside of a car.",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a dog laying on a car seat in a car seat .",
+        "condition": "generator"
+      },
+      "image_id": 435553
+    },
+    {
+      "A": {
+        "caption": "LOTS OF BUSES IN A LARGE PARKING LOT WITH A FEW CARS",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a group of people standing on a train track with a lot of people on the side .",
+        "condition": "generator"
+      },
+      "image_id": 436992
+    },
+    {
+      "A": {
+        "caption": "A man sitting at a table with a pizza on a cutting board.",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a person sitting at a table with a pizza on it .",
+        "condition": "generator"
+      },
+      "image_id": 438267
+    },
+    {
+      "A": {
+        "caption": "A group of people standing next to a bus and a flag pole.",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a group of people standing around a park .",
+        "condition": "generator"
+      },
+      "image_id": 438709
+    },
+    {
+      "A": {
+        "caption": "a man in a red shirt and orange .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "Containers of multiple colored small tomatoes are seen.",
+        "condition": "retrieval"
+      },
+      "image_id": 439270
+    },
+    {
+      "A": {
+        "caption": "A red white and black stopped at a train station.",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a train that is parked in the snow .",
+        "condition": "generator"
+      },
+      "image_id": 439827
+    },
+    {
+      "A": {
+        "caption": "a pizza with toppings on a white plate .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "A pizza sitting on top of a white plate with pepperoni.",
+        "condition": "retrieval"
+      },
+      "image_id": 441965
+    },
+    {
+      "A": {
+        "caption": "a group of motorcycles parked on a street .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "a motorcycle and a three wheeler both coming same direction on both sides of street",
+        "condition": "retrieval"
+      },
+      "image_id": 442549
+    },
+    {
+      "A": {
+        "caption": "three people standing in front of a building .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "A group of young people standing next to each other holding cake.",
+        "condition": "retrieval"
+      },
+      "image_id": 444214
+    },
+    {
+      "A": {
+        "caption": "a herd of zebra standing on a lush green field .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "A man is in a pasture with several sheep ",
+        "condition": "retrieval"
+      },
+      "image_id": 449007
+    },
+    {
+      "A": {
+        "caption": "a man in a blue shirt and tie standing on a pole .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "A man in a tie next to a flag.",
+        "condition": "retrieval"
+      },
+      "image_id": 449156
+    },
+    {
+      "A": {
+        "caption": "A wedding being set up with one of the umbrellas blowing away",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a group of surfboards sitting on top of a beach .",
+        "condition": "generator"
+      },
+      "image_id": 458309
+    },
+    {
+      "A": {
+        "caption": "The train is traveling down the track towards Kingscote.",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a train that is on the tracks",
+        "condition": "generator"
+      },
+      "image_id": 459166
+    },
+    {
+      "A": {
+        "caption": "a display of a grocery store filled with lots of fruit .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "A store filled with lots of fresh produce on display.",
+        "condition": "retrieval"
+      },
+      "image_id": 462071
+    },
+    {
+      "A": {
+        "caption": "a large group of people standing outside of a building .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "The cars are traveling in opposite directions down the two way road.",
+        "condition": "retrieval"
+      },
+      "image_id": 465853
+    },
+    {
+      "A": {
+        "caption": "a little kid is sitting in front of some food",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a little girl sitting at a table with a slice of pizza .",
+        "condition": "generator"
+      },
+      "image_id": 469647
+    },
+    {
+      "A": {
+        "caption": "a man riding a horse on a dirt road .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "A group of men using poles to push themselves on skateboards.",
+        "condition": "retrieval"
+      },
+      "image_id": 471132
+    },
+    {
+      "A": {
+        "caption": "A rather large heard of elephants, including a baby. ",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a large elephant standing in a field next to a tree .",
+        "condition": "generator"
+      },
+      "image_id": 471315
+    },
+    {
+      "A": {
+        "caption": "a white toilet sitting in a bathroom next to a urinal .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "A white bathroom toilet sitting next to a urinal.",
+        "condition": "retrieval"
+      },
+      "image_id": 474243
+    },
+    {
+      "A": {
+        "caption": "a group of people sitting at a table with food .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "A cook is seen in a open kitchen making donuts",
+        "condition": "retrieval"
+      },
+      "image_id": 475546
+    },
+    {
+      "A": {
+        "caption": "A herd of cattle standing on top of a grass covered field.",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a brown and white cow standing in a field .",
+        "condition": "generator"
+      },
+      "image_id": 484547
+    },
+    {
+      "A": {
+        "caption": "a vase of flowers in a vase on a table .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "A vase filled with pink flowers sits on a counter top. ",
+        "condition": "retrieval"
+      },
+      "image_id": 485875
+    },
+    {
+      "A": {
+        "caption": "a young person in a field with a frisbee",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a little girl standing on a lush green field .",
+        "condition": "generator"
+      },
+      "image_id": 490306
+    },
+    {
+      "A": {
+        "caption": "A walk in shower in a bathroom with a toilet and sink.",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a bathroom with a toilet , sink , toilet , and a shower .",
+        "condition": "generator"
+      },
+      "image_id": 490596
+    },
+    {
+      "A": {
+        "caption": "a red and white airplane flying over a blue sky .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "A group of people standing on top of a beach.",
+        "condition": "retrieval"
+      },
+      "image_id": 493507
+    },
+    {
+      "A": {
+        "caption": "A wooden table topped with slices of toast, soup and OJ>",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a close up of a cake with a bite of it",
+        "condition": "generator"
+      },
+      "image_id": 493601
+    },
+    {
+      "A": {
+        "caption": "A man holding a surfboard on top of a beach.",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a man and a dog are on the beach with a surfboard .",
+        "condition": "generator"
+      },
+      "image_id": 495695
+    },
+    {
+      "A": {
+        "caption": "Small red and white bowl filled with a mix of veggies and pasta. ",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a plate of broccoli and other foods are on a table .",
+        "condition": "generator"
+      },
+      "image_id": 500036
+    },
+    {
+      "A": {
+        "caption": "a group of zebras standing together in a field .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "A couple of zebra grazing on a lush green field.",
+        "condition": "retrieval"
+      },
+      "image_id": 507714
+    },
+    {
+      "A": {
+        "caption": "a man standing next to a woman holding a teddy bear .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "A boy sitting on a black couch with teddy bears. ",
+        "condition": "retrieval"
+      },
+      "image_id": 511690
+    },
+    {
+      "A": {
+        "caption": "A photograph of a clean remodeled kitchen. ",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a kitchen with a sink , refrigerator , refrigerator , and a microwave .",
+        "condition": "generator"
+      },
+      "image_id": 517597
+    },
+    {
+      "A": {
+        "caption": "a baby holding a chocolate doughnut in his hand ",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a little girl holding a cell phone in her hand .",
+        "condition": "generator"
+      },
+      "image_id": 519465
+    },
+    {
+      "A": {
+        "caption": "A man holding a Nintendo Wii game controller.",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a man in a white shirt and a bathroom .",
+        "condition": "generator"
+      },
+      "image_id": 522418
+    },
+    {
+      "A": {
+        "caption": "a stop sign on a street corner with a stop sign on it .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "A stop sign has been edited to say stop war.",
+        "condition": "retrieval"
+      },
+      "image_id": 523002
+    },
+    {
+      "A": {
+        "caption": "a white bathroom with a white tile floor and a white sink .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "A kitchen with all white cabinets and all white appliances.",
+        "condition": "retrieval"
+      },
+      "image_id": 533255
+    },
+    {
+      "A": {
+        "caption": "A nice sail boat in some choppy water.",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a boat is on a lake with a mountain in the background .",
+        "condition": "generator"
+      },
+      "image_id": 535604
+    },
+    {
+      "A": {
+        "caption": "Several different types of vegetables laid out on a tabletop.",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a vase of flowers sitting on a table .",
+        "condition": "generator"
+      },
+      "image_id": 537982
+    },
+    {
+      "A": {
+        "caption": "a person on a skateboard doing a trick .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "Promotional photo showing snowboarder doing aerial stunt over steep slope.",
+        "condition": "retrieval"
+      },
+      "image_id": 538122
+    },
+    {
+      "A": {
+        "caption": "An equestrian is guiding a horse around the grass field.",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a horse is being lead by a man .",
+        "condition": "generator"
+      },
+      "image_id": 539906
+    },
+    {
+      "A": {
+        "caption": "A boy is crossing the street in front of the buses.",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a train that is on the tracks",
+        "condition": "generator"
+      },
+      "image_id": 547583
+    },
+    {
+      "A": {
+        "caption": "A kettle sitting over a pile of wood next to several cooking pans.",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a bathroom with a sink , mirror , mirror , and a mirror .",
+        "condition": "generator"
+      },
+      "image_id": 549626
+    },
+    {
+      "A": {
+        "caption": "A keyboard sits on top of the keyboard of an open laptop computer.",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a close up of a laptop on a desk",
+        "condition": "generator"
+      },
+      "image_id": 550281
+    },
+    {
+      "A": {
+        "caption": "a giraffe standing next to a tree and a tree .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "A zebra standing next to a giraffe in a forest.",
+        "condition": "retrieval"
+      },
+      "image_id": 554098
+    },
+    {
+      "A": {
+        "caption": "a cat laying on a grass covered field .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "Two brown and one black cow sitting in the middle of a green grass pasture.",
+        "condition": "retrieval"
+      },
+      "image_id": 554783
+    },
+    {
+      "A": {
+        "caption": "a bedroom with a bed , a white comforter and a red wall .",
+        "condition": "generator"
+      },
+      "B": {
+        "caption": "A large white pillow sitting on top of a white bed.",
+        "condition": "retrieval"
+      },
+      "image_id": 560683
+    },
+    {
+      "A": {
+        "caption": "A computer screen is lit up on a computer desk.",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a computer monitor and keyboard sitting on a desk .",
+        "condition": "generator"
+      },
+      "image_id": 561403
+    },
+    {
+      "A": {
+        "caption": "A small teddy bear sits half-lit in from of a pile of toys.",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a teddy bear sitting on a couch with a teddy bear .",
+        "condition": "generator"
+      },
+      "image_id": 567523
+    },
+    {
+      "A": {
+        "caption": "Two motorcycles and a four-wheeler ride along a dirt trail. ",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a man riding a horse on a dirt road .",
+        "condition": "generator"
+      },
+      "image_id": 574413
+    },
+    {
+      "A": {
+        "caption": "a black and white clock in a clock tower",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a large clock tower with a sky in the background",
+        "condition": "generator"
+      },
+      "image_id": 574623
+    },
+    {
+      "A": {
+        "caption": "A man reaching under his bed to find something.",
+        "condition": "retrieval"
+      },
+      "B": {
+        "caption": "a black dog sitting on a couch with a cat on the floor .",
+        "condition": "generator"
+      },
+      "image_id": 581704
+    }
+  ],
+  "prediction_sha256": "aefa1a61ff5c0fb9c248736b05438c9eab70a9e8d2016262f383322a2e527be2",
+  "retrieval_sha256": "2f20446618f074da9d0e6d202adedf9a5e577733bdaa2dcab71ed567b4949d45",
+  "schema_version": 1
+}

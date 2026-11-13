@@ -1,0 +1,156 @@
+{
+  "schema_version": 1,
+  "ratings_sha256": "34aaf704ebba314bd7af0499aac96a23194b77d2508f86e584a8b3d3cd3f728e",
+  "protocol_sha256": "cc909248d6d34029897a7ddb107263db97ba95b8f40b8e919660e16338558c16",
+  "image_pairs": 200,
+  "caption_ratings": 400,
+  "evaluator": "Ashwin Parthasarathy",
+  "methods": {
+    "generator": {
+      "main_correct": {
+        "count": 145,
+        "total": 200,
+        "percent": 72.5,
+        "wilson_95_percent": [
+          65.93166064233034,
+          78.22029967069265
+        ]
+      },
+      "object_error": {
+        "count": 106,
+        "total": 200,
+        "percent": 53.0,
+        "wilson_95_percent": [
+          46.09168291500183,
+          59.79524512673458
+        ]
+      },
+      "action_error": {
+        "count": 25,
+        "total": 200,
+        "percent": 12.5,
+        "wilson_95_percent": [
+          8.611974475712644,
+          17.801425002582345
+        ]
+      },
+      "attribute_error": {
+        "count": 36,
+        "total": 200,
+        "percent": 18.0,
+        "wilson_95_percent": [
+          13.294625859420172,
+          23.911475028724883
+        ]
+      },
+      "relationship_error": {
+        "count": 60,
+        "total": 200,
+        "percent": 30.0,
+        "wilson_95_percent": [
+          24.074744682371403,
+          36.679068372719264
+        ]
+      },
+      "overall_pass": {
+        "count": 57,
+        "total": 200,
+        "percent": 28.5,
+        "wilson_95_percent": [
+          22.69500300461729,
+          35.11534602960517
+        ]
+      },
+      "major_object_or_action": {
+        "count": 117,
+        "total": 200,
+        "percent": 58.5,
+        "wilson_95_percent": [
+          51.57391490134403,
+          65.10571455024242
+        ]
+      }
+    },
+    "retrieval": {
+      "main_correct": {
+        "count": 128,
+        "total": 200,
+        "percent": 64.0,
+        "wilson_95_percent": [
+          57.141528166003084,
+          70.33080269543346
+        ]
+      },
+      "object_error": {
+        "count": 106,
+        "total": 200,
+        "percent": 53.0,
+        "wilson_95_percent": [
+          46.09168291500183,
+          59.79524512673458
+        ]
+      },
+      "action_error": {
+        "count": 47,
+        "total": 200,
+        "percent": 23.5,
+        "wilson_95_percent": [
+          18.15743341523259,
+          29.841368882762538
+        ]
+      },
+      "attribute_error": {
+        "count": 50,
+        "total": 200,
+        "percent": 25.0,
+        "wilson_95_percent": [
+          19.5081680068175,
+          31.434098312045833
+        ]
+      },
+      "relationship_error": {
+        "count": 71,
+        "total": 200,
+        "percent": 35.5,
+        "wilson_95_percent": [
+          29.19862754043116,
+          42.34788692450957
+        ]
+      },
+      "overall_pass": {
+        "count": 48,
+        "total": 200,
+        "percent": 24.0,
+        "wilson_95_percent": [
+          18.606615992413687,
+          30.373340979204166
+        ]
+      },
+      "major_object_or_action": {
+        "count": 119,
+        "total": 200,
+        "percent": 59.5,
+        "wilson_95_percent": [
+          52.5797100813387,
+          66.06222871749323
+        ]
+      }
+    }
+  },
+  "paired_comparison": {
+    "difference_percentage_points": 4.5,
+    "paired_bootstrap_95_percentage_points": [
+      -3.0,
+      12.0
+    ],
+    "bootstrap_replicates": 10000,
+    "seed": 42,
+    "generator_only_pass": 33,
+    "retrieval_only_pass": 24,
+    "both_pass": 24,
+    "neither_pass": 119
+  },
+  "uncertainty_note": "Intervals resample image pairs and do not account for systematic evaluator error, proposed-label anchoring, or generalization beyond this development subset.",
+  "original_uploaded_ratings_sha256": "6a670e0bacd2cb06170ca94c9cf830ac8630cb6127b84151451718098ab325d9",
+  "pass_rule": "main_correct=1 and all four material-error flags=0"
+}

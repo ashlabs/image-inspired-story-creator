@@ -1,0 +1,44 @@
+{
+  "protocol_sha256": "cc909248d6d34029897a7ddb107263db97ba95b8f40b8e919660e16338558c16",
+  "ratings": {
+    "1323": {
+      "A": {
+        "action_error": 1,
+        "attribute_error": 1,
+        "main_correct": 0,
+        "object_error": 1,
+        "relationship_error": 1
+      },
+      "B": {
+        "action_error": 1,
+        "attribute_error": 1,
+        "main_correct": 0,
+        "object_error": 1,
+        "relationship_error": 1
+      },
+      "evaluator": "Ashwin Parthasarathy",
+      "notes": "",
+      "reviewed_at_utc": "2026-11-12T22:31:25.816088+00:00"
+    },
+    "2471": {
+      "A": {
+        "action_error": 0,
+        "attribute_error": 1,
+        "main_correct": 1,
+        "object_error": 0,
+        "relationship_error": 0
+      },
+      "B": {
+        "action_error": 0,
+        "attribute_error": 1,
+        "main_correct": 1,
+        "object_error": 1,
+        "relationship_error": 1
+      },
+      "evaluator": "Ashwin Parthasarathy",
+      "notes": "",
+      "reviewed_at_utc": "2026-11-13T17:27:30.312057+00:00"
+    }
+  },
+  "schema_version": 1
+}
