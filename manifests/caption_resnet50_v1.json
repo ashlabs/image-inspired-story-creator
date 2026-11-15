@@ -1,0 +1,44 @@
+{
+  "annotation_sha256": "4b62086319480e0739ef390d04084515defb9c213ff13605a036061e33314317",
+  "baseline_commit": "9cbe986",
+  "caption_preprocessing_sha256": "32fd461b9035082fa11c010acd5439cfcec1e561e66c5375ba93fe2b98804844",
+  "decoder_source_sha256": "d3a09880ba8d99511c9405fc8d173a61918217e2ab08ce7a0a032749ed6e10c4",
+  "encoder": "resnet50",
+  "encoder_frozen": true,
+  "encoder_weights": "IMAGENET1K_V2",
+  "experiment": "resnet50_v1",
+  "feature_sha256": {
+    "development": "43eca0f6614813bbe61bcea410ae06f1be9595613b0f50c247720ae8381899f3",
+    "train": "aa36b1dd8c61a50002d2329cd505bdf32bc85db9045ebef5f1a22693d0e561cc",
+    "validation": "89c4154764a76fb22809077b32086c78a480ee4dc193d87197dbc4046dbfe8f0"
+  },
+  "image_preprocessing_sha256": "13e6936a9328e9e32fcd7f12ba1ece27d1d07cd225d55b9ad52d92f312984810",
+  "model_config": {
+    "dropout": 0.1,
+    "feedforward_width": 1024,
+    "heads": 4,
+    "layers": 2,
+    "max_length": 39,
+    "pad_id": 0,
+    "visual_feature_dim": 2048,
+    "vocabulary_size": 7257,
+    "width": 256
+  },
+  "schema_version": 1,
+  "split_sha256": "45dd451b1cc6dd1f4c4cda8992c5c80596169ccd94e2fb002522cb0c7f84ad09",
+  "torch_version": "2.15.0",
+  "torchvision_version": "0.29.2",
+  "training": {
+    "batch_size": 32,
+    "gradient_clip_norm": 1.0,
+    "learning_rate": 0.0003,
+    "maximum_epochs": 15,
+    "minimum_improvement": 0.01,
+    "optimizer": "AdamW",
+    "patience": 3,
+    "seed": 42,
+    "selection": "Lowest validation loss",
+    "weight_decay": 0.01
+  },
+  "vocabulary_sha256": "0072a7b0f6c5811c2750d51bf2ee1474269f5a19dc7bf8607947c8c7e89254f4"
+}

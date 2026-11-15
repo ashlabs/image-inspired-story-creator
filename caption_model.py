@@ -27,6 +27,8 @@ class CaptionDecoder(nn.Module):
         Hidden dimension of each block's feed-forward network.
     dropout : float
         Dropout probability during training.
+    visual_feature_dim : int
+        Number of features per visual position: 512 for ResNet18 or 2048 for ResNet50.
     """
 
     def __init__(
@@ -39,11 +41,13 @@ class CaptionDecoder(nn.Module):
         layers=2,
         feedforward_width=1024,
         dropout=0.1,
+        visual_feature_dim=512
     ):
         super().__init__()
         self.width = width
 
-        self.visual_projection = nn.Linear(512, width)
+        # self.visual_projection = nn.Linear(512, width)
+        self.visual_projection = nn.Linear(visual_feature_dim, width)
         self.visual_positions = nn.Embedding(49, width)
 
         self.token_embeddings = nn.Embedding(
@@ -86,7 +90,7 @@ class CaptionDecoder(nn.Module):
         Parameters
         ----------
         visual_tokens : torch.Tensor
-            Frozen image features, shape (B, 49, 512).
+            Frozen image features, shape (B, 49, visual_feature_dim).
         input_ids : torch.Tensor
             Caption token IDs, shape (B, T).
         input_padding_mask : torch.Tensor
