@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "images": 200,
+  "input_sha256": {
+    "resnet18_ratings": "34aaf704ebba314bd7af0499aac96a23194b77d2508f86e584a8b3d3cd3f728e",
+    "resnet18_protocol": "cc909248d6d34029897a7ddb107263db97ba95b8f40b8e919660e16338558c16",
+    "resnet50_ratings": "0fc1f38092a2dcd46a694f27d56a66b96d2a7a8eefaab2fc257a49e7913b6039",
+    "resnet50_predictions": "680d58fde265a1dc4ee89f92723e0f2122fb59083cae7e2c4c64ff16c57d192c"
+  },
+  "counts": {
+    "ResNet18": {
+      "main_correct": 145,
+      "object_error": 106,
+      "action_error": 25,
+      "attribute_error": 36,
+      "relationship_error": 60,
+      "overall_pass": 57,
+      "major_object_or_action": 117
+    },
+    "ResNet50": {
+      "main_correct": 169,
+      "object_error": 71,
+      "action_error": 13,
+      "attribute_error": 44,
+      "relationship_error": 53,
+      "overall_pass": 74,
+      "major_object_or_action": 77
+    }
+  },
+  "rates": {
+    "ResNet18": {
+      "main_correct": 0.725,
+      "object_error": 0.53,
+      "action_error": 0.125,
+      "attribute_error": 0.18,
+      "relationship_error": 0.3,
+      "overall_pass": 0.285,
+      "major_object_or_action": 0.585
+    },
+    "ResNet50": {
+      "main_correct": 0.845,
+      "object_error": 0.355,
+      "action_error": 0.065,
+      "attribute_error": 0.22,
+      "relationship_error": 0.265,
+      "overall_pass": 0.37,
+      "major_object_or_action": 0.385
+    }
+  },
+  "pass_rate_difference_pp": 8.5,
+  "paired_bootstrap": {
+    "samples": 10000,
+    "seed": 42,
+    "confidence_level": 0.95,
+    "interval_pp": [
+      1.0,
+      16.0
+    ]
+  },
+  "review_limit": "Author-confirmed assistant-proposed ratings; model identities visible; not an independent blind review."
+}
