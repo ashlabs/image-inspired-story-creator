@@ -66,6 +66,35 @@ class SessionTests(unittest.TestCase):
         self.assertFalse(state.finish_caption(revision, "Old caption"))
         self.assertEqual(state.premise, "My own premise.")
 
+    def test_approve_saves_click_text_before_input_callback(self):
+        state = self.ready()
+        revision, _ = state.begin_caption()
+        state.finish_caption(revision, "A goalie is kicking a ball.")
+        corrected = "A player kicks a ball toward a goalkeeper."
+        state.approve(corrected)
+        self.assertEqual(state.premise, corrected)
+        self.assertEqual(state.approved, corrected)
+        self.assertIsNone(state.snapshot()[0])
+        # The delayed input callback contains the same submitted text.
+        state.edit_premise(corrected)
+        self.assertEqual(state.approved, corrected)
+        self.assertEqual(state.begin_story(corrected)[1], corrected)
+
+    def test_approval_discards_inflight_caption(self):
+        state = self.ready()
+        revision, _ = state.begin_caption()
+        state.approve("A user-written premise.")
+        self.assertFalse(state.finish_caption(revision, "Late caption"))
+        self.assertEqual(state.approved, "A user-written premise.")
+
+    def test_new_approval_discards_inflight_story(self):
+        state = self.ready()
+        state.approve(state.premise)
+        revision, _ = state.begin_story(state.premise)
+        state.approve("A revised premise from the textbox.")
+        self.assertFalse(state.finish_story(revision, "Old story", ""))
+        self.assertEqual(state.story, "")
+
     def test_mismatched_visible_premise_cannot_generate(self):
         state = self.ready()
         state.approve(state.premise)

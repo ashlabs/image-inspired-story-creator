@@ -27,7 +27,8 @@ def generate_caption(session):
     try:
         revision, image = session.begin_caption()
     except ValueError as error:
-        raise gr.Error(str(error)) from error
+        gr.Warning(str(error))
+        return
     try:
         with MODEL_LOCK:
             caption = get_models().caption(image)
@@ -42,7 +43,8 @@ def approve_premise(text, session):
     try:
         session.approve(text)
     except ValueError as error:
-        raise gr.Error(str(error)) from error
+        gr.Warning(str(error))
+        return
 
 
 def generate_story(text, session):
@@ -50,7 +52,8 @@ def generate_story(text, session):
     try:
         revision, approved = session.begin_story(text)
     except ValueError as error:
-        raise gr.Error(str(error)) from error
+        gr.Warning(str(error))
+        return
     try:
         with MODEL_LOCK:
             story, details = get_models().story(approved)

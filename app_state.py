@@ -68,17 +68,19 @@ class Session:
                 self.status = "Premise changed. Review it and approve again."
 
     def approve(self, text):
-        """Approve the exact current, nonempty premise supplied by the user."""
+        """Atomically save and approve the textbox value submitted on the click."""
         with self.lock:
             if self.image is None:
                 raise ValueError("Upload a photograph first.")
-            if text != self.premise:
-                raise ValueError("Premise is updating. Review it and approve again.")
             if not text.strip():
                 raise ValueError("Enter a premise before approving it.")
             if len(text) > 2000:
                 raise ValueError("Keep the premise within 2,000 characters.")
+            # The click carries the authoritative textbox snapshot. An input
+            # callback may still be in flight, so save and approve it together.
             self._invalidate()
+            self.premise = text
+            self.pending_premise = None
             self.approved = text
             self.status = "Premise approved. Select Generate story."
 
