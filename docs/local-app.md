@@ -49,7 +49,10 @@ and inference requests are serialized.
 
 Stories are labeled fiction. Word count uses whitespace-separated words. A story
 outside 100–150 words receives at most one retry; if the retry still misses the
-target, its actual length is shown. Stories are not mechanically truncated.
+target, its actual length is shown. The initial prompt asks for a complete incident
+with one consistent outcome. The retry receives the actual draft and measured word
+count, then expands or shortens it toward 120–135 words while checking consistency.
+Stories are not mechanically truncated.
 Generated fiction is not a source of factual information about photographed
 people. Prompt instructions encourage premise preservation; they do not guarantee
 that every generated statement follows the premise.
