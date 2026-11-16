@@ -71,3 +71,32 @@ For the first local run, use a development photograph, generate and correct a
 caption, approve it, then generate a story. Edit the premise and check that the
 approved text and story clear. Upload a second image and check the premise also
 resets. Keep the final-test photographs unused until the implementation is frozen.
+
+## Local walkthrough results
+
+A local Mac walkthrough was completed on November 16, 2026, covering the
+application changes through commit `9797939`.
+
+| Check | Observed result |
+| --- | --- |
+| Upload and caption generation | A caption was generated for an uploaded photograph. |
+| Premise editing and approval | The corrected premise could be approved after the synchronization fix. |
+| Fictional-story generation | A complete story was displayed with generation details. |
+| Editing the premise | Approved text and the previous story cleared, as confirmed by the author. |
+| Uploading another photograph | Editable premise, approved premise, and story cleared, as confirmed by the author. |
+
+One reported story contained 105 words, completed in one attempt, and took
+1.8 seconds according to the app's generation details. Earlier examples missed
+the length target, including a 97-word result after two attempts. The revised
+retry supplies the actual draft and word count; its overall success rate has
+not yet been measured.
+
+Story coherence remains a limitation. In the 105-word example, a player trying
+to score reacts with relief after missing, without an explanation. Successful
+interface operation does not establish consistent narrative quality.
+
+The automated session suite contains 15 passing tests, including approval from
+a textbox snapshot before its edit callback finishes. Approval and rendering
+were also checked through Gradio 6.31.0's callback processing with simulated
+delayed synchronization. These automated checks do not replace the local
+walkthrough or the planned final quality, latency, and memory evaluation.
